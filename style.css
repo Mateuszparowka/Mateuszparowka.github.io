@@ -33,6 +33,7 @@ h2 {
     margin:auto;
     border-style: solid;
     
+    
 
 
 }
@@ -42,18 +43,21 @@ h2 {
     width: 400px;
     text-align: left;
     display:flex;
-    justify-content:right;
+    justify-content:auto;
+    
 }
 #test2{
     width: 550px;
     text-align: left;
     display: flex;
-    justify-content: right;
+    justify-content: auto;
+    
 }
 #test3{
-    width: 588px;
+    width: 610px;
     text-align: left;
     display: flex;
-    justify-content: right;
+    justify-content: auto;
+    
 }
 
