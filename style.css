@@ -10,7 +10,7 @@ h1 {
 }
 body {
     background-color: cornsilk;
-    background-image: url("systemy-informatyczne.jpg");
+    /* background-image: url("systemy-informatyczne.jpg"); */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -43,21 +43,21 @@ h2 {
     width: 400px;
     text-align: left;
     display:flex;
-    justify-content:auto;
+    justify-content:right;
     
 }
 #test2{
     width: 550px;
     text-align: left;
     display: flex;
-    justify-content: auto;
+    justify-content: right;
     
 }
 #test3{
     width: 610px;
     text-align: left;
     display: flex;
-    justify-content: auto;
+    justify-content: right;
     
 }
 
