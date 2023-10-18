@@ -32,6 +32,7 @@ h2 {
     padding-bottom: 20px;
     margin:auto;
     border-style: solid;
+    width: auto;
     
     
 
@@ -40,21 +41,21 @@ h2 {
 
 #test{
     
-    width: 400px;
+    width: auto;
     text-align: left;
     display:flex;
     justify-content:right;
     
 }
 #test2{
-    width: 550px;
+    width: auto;
     text-align: left;
     display: flex;
     justify-content: right;
     
 }
 #test3{
-    width: 610px;
+    width: auto;
     text-align: left;
     display: flex;
     justify-content: right;
