@@ -44,21 +44,21 @@ h2 {
     width: auto;
     text-align: left;
     display:flex;
-    justify-content:right;
+    justify-content:left;
     
 }
 #test2{
     width: auto;
     text-align: left;
     display: flex;
-    justify-content: right;
+    justify-content: left;
     
 }
 #test3{
     width: auto;
     text-align: left;
     display: flex;
-    justify-content: right;
+    justify-content: left;
     
 }
 
